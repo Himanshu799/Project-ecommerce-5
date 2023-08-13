@@ -108,7 +108,7 @@ const HomePage = () => {
   };
   return (
     <Layout title={"ALl Products - Best offers "}>
-      {/* banner image */}
+      {/* banner image  */}
       <img
         src="/images/banner.png"
         className="banner-img"
